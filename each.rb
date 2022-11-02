@@ -8,6 +8,8 @@ weather_options = ["sunny", "snowy", "freezing", "partly cloudy", "drizzly"]
 
 weather_options.each do |condition|
   puts "Today the weather is #{condition}"
+end
+
 
 # Challenge 2
 # Use the each method to print out the words that are exactly 3 characters in length
